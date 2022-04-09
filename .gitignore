@@ -1,1 +1,3 @@
-bla bla bla
+*.dat
+!c.dat
+data/
